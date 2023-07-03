@@ -10,6 +10,7 @@ ARIS: Echoes is a demo game that showcases the use of AI-powered NPCs in a story
 
 <img width="882" alt="Jarvis IV (Glacier)" src="https://github.com/oscaem/ARIS-Echoes/assets/48035650/3f521742-5756-4a0a-8dc0-ee8398fa5a74">
 
+
 Watch a live demo here (German only): https://youtu.be/Is5x-u6XcIY
 
 _______________________

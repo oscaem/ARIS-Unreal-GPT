@@ -28,9 +28,11 @@ Features
 
 **Immersive Environments**: Unreal Engine 5-powered Nanite & Lumen Environments. Experience stunning visuals and atmospheric sound design that transport you to a rich and detailed game world.
 
+
 This is more of a tech-demo than a complete game that was created for university. However it should offer a glimpse into the capabilities of AI-driven storytelling and some future aspects of the gaming and entertainment industry. It was developed to be a more intricate demo of the technology, than usually seen in current Tech-demos and Trailers. 
 
-Try it out for yourself! 
+Download the latest release and try it out for yourself! 
+
 
 Upcoming
 

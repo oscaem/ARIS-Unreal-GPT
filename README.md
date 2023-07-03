@@ -18,7 +18,7 @@ _______________________
 
 ARIS: Echoes is a demo game that presents an exciting glimpse into the future of gaming, where AI-powered Non-Player Characters (NPCs) enhance the player's story-driven experience. In this adventure, you embark on a journey to a lost planet, accompanied by your trusty robot companion, ARIS. Together, you must collaborate and overcome challenges to find a way back to Earth. Discover the history of the barren Jarvis IV system and encounter various AIs that challenge the way you typically play games. 
 
-Features
+Features:
 
 **GPT-4-Powered NPCs**: Immerse yourself in a dynamic world where NPCs utilize advanced AI algorithms to interact with the player and adapt their behavior based on the context of the game.
 
@@ -28,13 +28,15 @@ Features
 
 **Immersive Environments**: Unreal Engine 5-powered Nanite & Lumen Environments. Experience stunning visuals and atmospheric sound design that transport you to a rich and detailed game world.
 
+_______________________
+
 
 This is more of a tech-demo than a complete game that was created for university. However it should offer a glimpse into the capabilities of AI-driven storytelling and some future aspects of the gaming and entertainment industry. It was developed to be a more intricate demo of the technology, than usually seen in current Tech-demos and Trailers. 
 
 Download the latest release and try it out for yourself! 
 
 
-Upcoming
+Upcoming:
 
 - Localization (English)
 - VR-Mode
@@ -42,9 +44,10 @@ Upcoming
 
 _________________________
 
-Instructions
+Instructions:
 
 Start the ARIS.exe file to begin.
+
 
 **Controls**
 

@@ -40,3 +40,30 @@ Upcoming
 - VR-Mode
 - Steam-Demo
 
+_________________________
+
+Instructions
+
+Start the ARIS.exe file to begin.
+
+Controls
+
+• Interact: Press the "E" key to interact with objects in the game world.
+• Talk: Press the "F" key to speak with other characters in the game. Speak into your microphone. These characters are AI-controlled, and you can ask them any kind of questions.
+• Other commands: Cutscenes can be skipped with the "Q" key. Additional commands will be displayed in the game. Follow the on-screen instructions to perform specific actions.
+
+Minimum Requirements
+
+• Peripheral devices: Microphone for voice functions is essential.
+• Graphics card: Nvidia GeForce GTX 1070 with 8 GB dedicated VRAM.
+• Processor: Intel Core i5 or equivalent AMD Ryzen processor.
+• Memory: 8 GB RAM (recommended: 16 GB RAM for optimal performance).
+• Storage: At least 15 GB of free space on the hard drive or SSD.
+• Operating System: Windows 10 (64-bit).
+• DirectX: Version 11 or higher.
+• Internet connection: Essential for AI features.
+
+Notes
+
+• In the settings, you can adjust the graphics quality, volume, microphone used, and the AI model employed.
+

@@ -16,7 +16,7 @@ Watch a live demo here (German only): https://youtu.be/Is5x-u6XcIY
 _______________________
 
 
-ARIS: Echoes is a demo game that presents an exciting glimpse into the future of gaming, where AI-powered Non-Player Characters (NPCs) enhance the player's story-driven experience. In this captivating adventure, you embark on a journey to a lost planet, accompanied by your trusty robot companion, ARIS. Together, you must collaborate and overcome challenges to find a way back to Earth. Discover the history of the barren Jarvis IV system and encounter various AIs that challenge the way you typically play games. 
+ARIS: Echoes is a demo game that presents an exciting glimpse into the future of gaming, where AI-powered Non-Player Characters (NPCs) enhance the player's story-driven experience. In this adventure, you embark on a journey to a lost planet, accompanied by your trusty robot companion, ARIS. Together, you must collaborate and overcome challenges to find a way back to Earth. Discover the history of the barren Jarvis IV system and encounter various AIs that challenge the way you typically play games. 
 
 Features
 

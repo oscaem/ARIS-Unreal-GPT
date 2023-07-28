@@ -1,4 +1,4 @@
-# ARIS-Echoes
+# ARIS-Echoes: GPT in Unreal Engine
 
 **Powered by GPT-4, Azure TTS & Unreal Engine 5**
 

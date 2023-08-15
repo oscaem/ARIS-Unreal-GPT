@@ -1,8 +1,8 @@
 # ARIS-Echoes: GPT in Unreal Engine
 
-**Powered by GPT-4, Azure TTS & Unreal Engine 5**
+**Powered by ML, Azure TTS & Unreal Engine 5**
 
-ARIS: Echoes is a demo game that showcases the use of AI-powered NPCs in a story-driven experience. Discover a lost planet with your robot companion ARIS and work together to escape back to earth.
+ARIS: Echoes is a demo game that showcases the use of AI-powered NPCs in a story-driven experience. Discover a lost planet with your robot companion ARIS and work together to escape back to earth. It showcases a custom built NPC framework for Unreal Engine built with C++ and Machine Learning, to enable natural dialogue and an NPC that is controlled by an AI model, which can dynamically perceive game and perform actions in-game. This early version uses vector embeddings for context and heavy string manipulation to enable communication between the model and the engine. The goal is to convert this into a simple C++ port that can run locally and easily be embedded into other games without a large performance overhead.
 
 Watch a live demo here (German only, for now): https://youtu.be/Is5x-u6XcIY
 
@@ -14,7 +14,6 @@ Watch a live demo here (German only, for now): https://youtu.be/Is5x-u6XcIY
 
 
 _______________________
-
 
 ARIS: Echoes is a demo game that presents an exciting glimpse into the future of gaming, where AI-powered Non-Player Characters (NPCs) enhance the player's story-driven experience. In this adventure, you embark on a journey to a lost planet, accompanied by your trusty robot companion, ARIS. Together, you must collaborate and overcome challenges to find a way back to Earth. Discover the history of the barren Jarvis IV system and encounter various AIs that challenge the way you typically play games. 
 

@@ -4,13 +4,14 @@
 
 ARIS: Echoes is a demo game that showcases the use of AI-powered NPCs in a story-driven experience. Discover a lost planet with your robot companion ARIS and work together to escape back to earth.
 
+Watch a live demo here (German only): https://youtu.be/Is5x-u6XcIY
+
 <img alt="ARIS AI NPC" src="https://github.com/oscaem/ARIS-Echoes/assets/48035650/1198c1ef-9eff-49fe-aa26-74c73b82877e">
 
 <img width="400" alt="Jarvis IV (Dunes)" src="https://github.com/oscaem/ARIS-Echoes/assets/48035650/9d35fb25-7dbc-47ae-a06e-3b9f267da507">
 
 <img width="400" alt="Jarvis IV (Glacier)" src="https://github.com/oscaem/ARIS-Echoes/assets/48035650/bc03d57a-ff0d-49f0-929d-cbe5905574d4">
 
-Watch a live demo here (German only): https://youtu.be/Is5x-u6XcIY
 
 _______________________
 

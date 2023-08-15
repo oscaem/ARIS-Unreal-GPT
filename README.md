@@ -4,7 +4,7 @@
 
 ARIS: Echoes is a demo game that showcases the use of AI-powered NPCs in a story-driven experience. Discover a lost planet with your robot companion ARIS and work together to escape back to earth.
 
-Watch a live demo here (German only): https://youtu.be/Is5x-u6XcIY
+Watch a live demo here (German only, for now): https://youtu.be/Is5x-u6XcIY
 
 <img alt="ARIS AI NPC" src="https://github.com/oscaem/ARIS-Echoes/assets/48035650/1198c1ef-9eff-49fe-aa26-74c73b82877e">
 

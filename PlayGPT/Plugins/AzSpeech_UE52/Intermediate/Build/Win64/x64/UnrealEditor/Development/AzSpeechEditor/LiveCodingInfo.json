@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AzSpeechEditor.cpp.obj": [
+			"AzSpeechEditor.init.gen.cpp.obj",
+			"AzSpeechEditor.cpp.obj",
+			"SAzSpeechAudioGenerator.cpp.obj"
+		]
+	}
+}

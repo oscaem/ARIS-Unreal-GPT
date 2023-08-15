@@ -1,0 +1,39 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AzSpeech.cpp.obj": [
+			"AzSpeech.init.gen.cpp.obj",
+			"AzSpeech.cpp.obj",
+			"AzSpeechHelper.cpp.obj",
+			"AzSpeechSettings.cpp.obj",
+			"AzSpeechRecognitionRunnable.cpp.obj",
+			"AzSpeechSynthesisRunnable.cpp.obj",
+			"AzSpeechRunnableBase.cpp.obj",
+			"AzSpeechAnimationData.cpp.obj",
+			"AzSpeechAudioInputDeviceInfo.cpp.obj",
+			"AzSpeechPhraseListMap.cpp.obj",
+			"AzSpeechRecognitionMap.cpp.obj",
+			"AzSpeechSettingsOptions.cpp.obj",
+			"AzSpeechVisemeData.cpp.obj",
+			"AzSpeechAudioDataSynthesisBase.cpp.obj",
+			"AzSpeechRecognizerTaskBase.cpp.obj",
+			"AzSpeechSpeechSynthesisBase.cpp.obj",
+			"AzSpeechSynthesizerTaskBase.cpp.obj",
+			"AzSpeechTaskBase.cpp.obj",
+			"AzSpeechWavFileSynthesisBase.cpp.obj",
+			"GetAvailableVoicesAsync.cpp.obj",
+			"RecognitionMapCheckAsync.cpp.obj",
+			"SpeechToTextAsync.cpp.obj",
+			"SSMLToAudioDataAsync.cpp.obj",
+			"SSMLToSoundWaveAsync.cpp.obj",
+			"SSMLToSpeechAsync.cpp.obj",
+			"SSMLToWavFileAsync.cpp.obj",
+			"TextToAudioDataAsync.cpp.obj",
+			"TextToSoundWaveAsync.cpp.obj",
+			"TextToSpeechAsync.cpp.obj",
+			"TextToWavFileAsync.cpp.obj",
+			"WavFileToTextAsync.cpp.obj",
+			"LogAzSpeech.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"BuildId": "25360045",
+	"Modules": 
+	{
+		"HttpGPTChatModule": "UnrealEditor-HttpGPTChatModule.dll",
+		"HttpGPTCommonModule": "UnrealEditor-HttpGPTCommonModule.dll",
+		"HttpGPTEditorModule": "UnrealEditor-HttpGPTEditorModule.dll",
+		"HttpGPTImageModule": "UnrealEditor-HttpGPTImageModule.dll"
+	}
+}

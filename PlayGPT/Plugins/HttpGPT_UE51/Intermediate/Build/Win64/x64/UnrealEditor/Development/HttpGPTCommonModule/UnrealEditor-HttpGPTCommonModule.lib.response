@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HttpGPTCommonModule.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Unreal Engine\PlayGPT\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\User\Unreal Engine\PlayGPT\Plugins\HttpGPT_UE51\Intermediate\Build\Win64\x64\UnrealEditor\Development\HttpGPTCommonModule\Module.HttpGPTCommonModule.cpp.obj"
+"C:\Users\User\Unreal Engine\PlayGPT\Plugins\HttpGPT_UE51\Intermediate\Build\Win64\x64\UnrealEditor\Development\HttpGPTCommonModule\Default.rc2.res"
+/OUT:"C:\Users\User\Unreal Engine\PlayGPT\Plugins\HttpGPT_UE51\Intermediate\Build\Win64\x64\UnrealEditor\Development\HttpGPTCommonModule\UnrealEditor-HttpGPTCommonModule.lib"

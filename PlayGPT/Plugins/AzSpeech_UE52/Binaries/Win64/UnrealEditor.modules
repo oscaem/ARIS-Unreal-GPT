@@ -1,0 +1,8 @@
+{
+	"BuildId": "25360045",
+	"Modules": 
+	{
+		"AzSpeech": "UnrealEditor-AzSpeech.dll",
+		"AzSpeechEditor": "UnrealEditor-AzSpeechEditor.dll"
+	}
+}

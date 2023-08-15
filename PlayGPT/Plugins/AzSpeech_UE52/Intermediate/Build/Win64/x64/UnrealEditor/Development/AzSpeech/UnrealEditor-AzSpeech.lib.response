@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AzSpeech.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\User\Unreal Engine\PlayGPT\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\User\Unreal Engine\PlayGPT\Plugins\AzSpeech_UE52\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzSpeech\Module.AzSpeech.cpp.obj"
+"C:\Users\User\Unreal Engine\PlayGPT\Plugins\AzSpeech_UE52\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzSpeech\Default.rc2.res"
+/OUT:"C:\Users\User\Unreal Engine\PlayGPT\Plugins\AzSpeech_UE52\Intermediate\Build\Win64\x64\UnrealEditor\Development\AzSpeech\UnrealEditor-AzSpeech.lib"

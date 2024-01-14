@@ -12,7 +12,7 @@ Or a long-form exploratory demo here: https://youtu.be/Is5x-u6XcIY
 
 Or view the project documentation here: https://youtu.be/Is5x-u6XcIY
 
-also, 
+Note: The demo application voice features are currently optimized for german. English version is coming soon.
 
 <img alt="ARIS AI NPC" src="https://github.com/oscaem/ARIS-Echoes/assets/48035650/1198c1ef-9eff-49fe-aa26-74c73b82877e">
 

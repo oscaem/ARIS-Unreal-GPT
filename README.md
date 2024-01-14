@@ -8,7 +8,7 @@ ARIS: Echoes is a demo game that showcases the use of AI-powered NPCs in a story
 
 Watch a live demo [here](https://www.youtube.com/watch?v=DrXvvumhbuM) or for the german version [here](https://www.youtube.com/watch?v=ogV9OnJuass)
 
-Or a long-form exploratory walkthrough here: [here]([https://youtu.be/Is5x-u6XcIY](https://youtu.be/SzrPPAHc0m4))
+Or a long-form exploratory walkthrough [here](https://youtu.be/SzrPPAHc0m4)
 
 Or view the project [Documentation](https://github.com/oscaem/ARIS-Unreal-GPT/blob/main/documentation%20(machine-translated).pdf).
 

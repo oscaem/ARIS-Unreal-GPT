@@ -10,7 +10,7 @@ Watch a live demo here (German only, for now): https://youtu.be/Is5x-u6XcIY
 
 Or a long-form exploratory demo here: https://youtu.be/Is5x-u6XcIY
 
-Or view the project documentation here: https://youtu.be/Is5x-u6XcIY
+Or view the project documentation here (English) : [https://youtu.be/Is5x-u6XcIY](https://github.com/oscaem/ARIS-Unreal-GPT/blob/main/documentation%20(english-machine%20translated).pdf)
 
 Note: The demo application voice features are currently optimized for german. English version is coming soon.
 

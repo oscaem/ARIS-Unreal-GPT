@@ -2,9 +2,17 @@
 
 **Powered by ML, Azure TTS & Unreal Engine 5**
 
+This projects was recently featured in PAGE Magazine 02/2024. Thank You! See: https://page-online.de/shop/page-02-2024/
+
 ARIS: Echoes is a demo game that showcases the use of AI-powered NPCs in a story-driven experience. Discover a lost planet with your robot companion ARIS and work together to escape back to earth. It showcases a custom built NPC framework for Unreal Engine built with C++ and Machine Learning. It enables natural dialogue and an NPC that is controlled by an AI model, which in turn can dynamically perceive game events and perform actions in-game. This early version uses vector embeddings for context and heavy string manipulation to enable communication between the model and the engine. The goal is to convert this into a simple cpp port that can run locally and easily be embedded into other games without a large performance overhead.
 
 Watch a live demo here (German only, for now): https://youtu.be/Is5x-u6XcIY
+
+Or a long-form exploratory demo here: https://youtu.be/Is5x-u6XcIY
+
+Or view the project documentation here: https://youtu.be/Is5x-u6XcIY
+
+also, 
 
 <img alt="ARIS AI NPC" src="https://github.com/oscaem/ARIS-Echoes/assets/48035650/1198c1ef-9eff-49fe-aa26-74c73b82877e">
 
